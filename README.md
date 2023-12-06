@@ -33,12 +33,14 @@ Copy the Firebase config object from your project settings and replace it in src
 <h4>Contributing</h4>
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
+<h5>Authentication</h5>
+
 ![page](https://github.com/aysegulyasar05/BasicFirebase-ChatX/assets/65957331/6317488a-a059-41ae-a7f8-278b824e8331)
 
 
-
+<h5>login Page</h5>
 ![page1](https://github.com/aysegulyasar05/BasicFirebase-ChatX/assets/65957331/35c89111-0558-4e0e-bd96-ecd99e6bfa3f)
 
-
+<h5>Chat Page</h5>
 ![page2](https://github.com/aysegulyasar05/BasicFirebase-ChatX/assets/65957331/b3f1607d-3728-44ff-85f3-4413e6c10c91)
 
