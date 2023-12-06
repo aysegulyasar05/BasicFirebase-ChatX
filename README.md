@@ -39,8 +39,10 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 
 <h5>login Page</h5>
+
 ![page1](https://github.com/aysegulyasar05/BasicFirebase-ChatX/assets/65957331/35c89111-0558-4e0e-bd96-ecd99e6bfa3f)
 
 <h5>Chat Page</h5>
+
 ![page2](https://github.com/aysegulyasar05/BasicFirebase-ChatX/assets/65957331/b3f1607d-3728-44ff-85f3-4413e6c10c91)
 
