@@ -33,6 +33,9 @@ Copy the Firebase config object from your project settings and replace it in src
 <h4>Contributing</h4>
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
+![page](https://github.com/aysegulyasar05/BasicFirebase-ChatX/assets/65957331/6317488a-a059-41ae-a7f8-278b824e8331)
+
+
 
 ![page1](https://github.com/aysegulyasar05/BasicFirebase-ChatX/assets/65957331/35c89111-0558-4e0e-bd96-ecd99e6bfa3f)
 
